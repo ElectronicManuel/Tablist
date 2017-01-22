@@ -1,0 +1,10 @@
+name: Tablist
+version: 1
+author: Reverser
+main: me.reverser.tablist.main.Main
+
+commands:
+  tablist:
+    description: "Hauptbefehl fuer das Plugin"
+    aliases: [tl]
+    permission: "tablist.admin"

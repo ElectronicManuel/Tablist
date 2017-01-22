@@ -1,0 +1,2 @@
+header: "%PREFIX%\n&aHeader"
+footer: "%PREFIX%\n&cFooter"
